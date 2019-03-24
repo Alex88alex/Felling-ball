@@ -1,0 +1,13 @@
+/*.ball{
+    border :5px solid;
+    border-radius: 5px;
+    width: 200px;
+    height: 200px;
+    background-color: rgb(230, 105, 105);
+    
+}*/
+
+.grass{
+    margin-top: 110px;
+    width: 900px;
+}
